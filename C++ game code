@@ -1,3 +1,8 @@
 wordle.cpp
 read_words.h
 words.txt
+
+These three files contain the aspects of running wordle.
+  -Wordle.cpp is the main code behind running the game, accessing read_words and words to read from the file and output words in the console.
+  -Read_words is a program written in C by my Professor to read from the file, the file is then inputted into the C++ header to be accessed.
+  -Words.txt contains 50+ words to be accessed by readwords into the main C++ functions code.
